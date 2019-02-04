@@ -1,0 +1,14 @@
+* My first Helloworld extension for firefox, prints helloworld on console
+* Overview
+** TODO Need to write brief overview and anatomy of extension
+* Installation
+** Goto `about:debugging`
+** Click `Load Temporary Add-on…`
+** Choose any file from extension directory
+** Open any webpage and check in console, it should print Helloworld
+* Useful links
+  [[https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension]]
+  [[https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Match_patterns]]
+  [[https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Content_scripts]]
+
+

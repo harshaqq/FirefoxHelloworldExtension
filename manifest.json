@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "Helloworld",
+  "version": "1.0",
+  "description": "Prints helloworld on console",
+
+  "icons": {
+    "48": "http://placehold.it/64x64"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ['<all_urls>'],      
+      "js": ["app.js"]
+    }
+  ]
+
+}
+
